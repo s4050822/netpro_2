@@ -48,7 +48,6 @@ public class NewJFrame extends javax.swing.JFrame {
 			{
 				try
 				{
-					// remember URL for back button
 					urlStack1.push(urlInput1.getText());
                                         urlStack2.push(urlInput2.getText());
                                         
