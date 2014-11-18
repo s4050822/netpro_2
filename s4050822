@@ -78,10 +78,7 @@ public class NewJFrame extends javax.swing.JFrame {
                                                 textArea2.append("ThreadB : " + entry.getKey() 
                                                            + " ,Value : " + entry.getValue()+"\n");
                                         }
-                                        
-                                        
- 
-                                        
+                                       
                                         ThreadA.start();
                                         text = "ThreadA : running"+"\n";
                                         textArea1.append(text);
