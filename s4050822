@@ -20,7 +20,7 @@ import javax.swing.event.HyperlinkListener;
 
 /**
  *
- * @author Mose
+ * @author MarkJude
  */
 public class NewJFrame extends javax.swing.JFrame {
 
